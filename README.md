@@ -36,6 +36,10 @@ All final project deliverables are organized for easy access:
 *   **Pre-recorded Presentation Video (YouTube):**
     *   (https://youtu.be/kffiZe1_rXQ)
     *   This video demonstrates the project's key aspects and findings.
+    
+*   **Pre-recorded Demo Video (YouTube):**
+    *   (https://youtu.be/8LFzc2PeXQU)
+    *   This video briefly intrduce the whole process of the project.
 
 
 ## **Contact**
